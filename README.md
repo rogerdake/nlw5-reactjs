@@ -1,5 +1,5 @@
 # PODCASTR 🎧
-Projeto desenvolvido durante a Next Level Week 5.
+Projeto desenvolvido durante a Next Level Week 5 da Rocketseat.
 
 
 ## 📌 CONTEÚDO
